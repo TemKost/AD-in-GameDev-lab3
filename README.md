@@ -37,10 +37,13 @@ https://docs.google.com/spreadsheets/d/1Q6fOGKubwubxRDBljqR_Z8ZA20AzFAKxM8cNrI1S
 
 Примеры для револьвера:
 - Среднеквадратическое отклонение (СКО)
+  
   ![image](https://github.com/user-attachments/assets/85c016b1-bd77-43f8-a12e-031226f56870)
 - Разброс урона оружия
+  
   ![image](https://github.com/user-attachments/assets/66072618-04fa-431b-8975-e6f410055887)
 - Вариативность времени отклика игрока (реакция на события)
+  
   ![image](https://github.com/user-attachments/assets/834f0e6b-4f77-4591-bedb-e326302f8e76)
 
 
